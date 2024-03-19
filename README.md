@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amanda Morais</h1>
-<h3 align="center">A fullstack Python and React developer</h3>
+<h3 align="center">Python and React developer</h3>
 
 - 🚀 Experienced in **back-end with Django, unit testing**
 
